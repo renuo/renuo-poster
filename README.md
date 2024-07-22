@@ -5,7 +5,7 @@ _The QR Code on the Poster_
 <img width="280" alt="image" src="https://github.com/user-attachments/assets/24e0913d-845b-41c8-8dd4-4bcff3583d88">
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/pandermatt/)
 
 
 This repo forwards the QR-Code from the poster (https://poster.renuo.ch/) to a domain specified in `index.html`
